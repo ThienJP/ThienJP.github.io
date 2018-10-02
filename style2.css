@@ -455,7 +455,7 @@
 }
 
 
-/* Small devices (portrait tablets and large phones, 600px and up) */
+/* should cover 90% of all mobile devices */
 @media only screen and (min-width: 320px) and (max-width: 1080px) {
   .chrome {
     font-size: 60px;
@@ -479,6 +479,6 @@
 
   li {
     width: 30%;
-
+    padding-bottom: 30%;
   }
 }
