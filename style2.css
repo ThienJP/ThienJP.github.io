@@ -6,8 +6,6 @@
 @import url(https://fonts.googleapis.com/css?family=Monoton);
 
 
-
-
 .chrome {
   position: relative;
   background-image: -webkit-linear-gradient(#378DBC 0%, #B6E8F1 46%, #ffffff 50%, #32120E 54%, #FFC488 58%, #582C11 90%, #EC9B4E 100%);
@@ -454,4 +452,33 @@
     left: 603px;
     top: 32px;
     opacity: 0;}
+}
+
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (max-width: 1200px) {
+  .chrome {
+    font-size: 60px;
+  }
+
+  .dreams {
+    font-size: 60px;
+    margin-left: 20px;
+    margin-top: -50px;
+  }
+
+  .name {
+    font-size: 60px;
+    margin-left: 30px;
+    margin-top: 50px;
+  }
+
+  .chrome:before {
+    padding-right: 1000px;
+  }
+
+  li {
+    width: 30%;
+
+  }
 }
