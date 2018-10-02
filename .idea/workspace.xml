@@ -60,13 +60,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="291" />
+          <entry key="css" value="335" />
           <entry key="html" value="112" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="291" />
+          <entry key="CSS" value="335" />
           <entry key="HTML" value="112" />
         </counts>
       </usages-collector>
@@ -108,7 +108,7 @@
         <entry file="file://$PROJECT_DIR$/style2.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1051">
-              <caret line="458" column="61" selection-start-line="458" selection-start-column="61" selection-end-line="458" selection-end-column="61" />
+              <caret line="458" column="62" selection-start-line="458" selection-start-column="62" selection-end-line="458" selection-end-column="62" />
             </state>
           </provider>
         </entry>
@@ -262,12 +262,12 @@
       <option name="presentableId" value="Default" />
       <updated>1538496587556</updated>
       <workItem from="1538496589305" duration="7847000" />
-      <workItem from="1538505635932" duration="4440000" />
+      <workItem from="1538505635932" duration="5052000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12287000" />
+    <option name="totallyTimeSpent" value="12899000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1504" y="23" width="1504" height="1669" extended-state="0" />
@@ -363,7 +363,7 @@
     <entry file="file://$PROJECT_DIR$/style2.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1051">
-          <caret line="458" column="61" selection-start-line="458" selection-start-column="61" selection-end-line="458" selection-end-column="61" />
+          <caret line="458" column="62" selection-start-line="458" selection-start-column="62" selection-end-line="458" selection-end-column="62" />
         </state>
       </provider>
     </entry>
