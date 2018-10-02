@@ -15,21 +15,16 @@
   font-size: 200px;
   font-family: 'Titillium Web', sans-serif;
   font-style: italic;
-  margin: 0;
   line-height: 1;
 }
 
 .chrome:before {
-  content: 'CHROME';
+  content: 'Soundboard';
   position: absolute;
-  left: 0;
-  top: 0;
   z-index: 10;
   background-image: -webkit-linear-gradient(-40deg, transparent 0%, transparent 40%, #fff 50%, transparent 60%, transparent 100%);
-  background-position:-680px 0;
   -webkit-background-clip: text;
   -webkit-text-stroke: 0;
-  padding-right: 300px;
   -webkit-animation-name: chrome_effect;
   -webkit-animation-duration: 6s;
   -webkit-animation-delay: 2s;
@@ -38,15 +33,14 @@
 }
 
 .dreams {
-  position: absolute;
-  margin: 0px;
+  position: center;
+  margin: 0 auto;
   font-family: 'Mr Dafoe', cursive;
   font-size: 160px;
   color: #F975F7 ;
   transform:rotate(-10deg);
   -ms-transform:rotate(-10deg); /* IE 9 */
   -webkit-transform:rotate(-10deg); /* Safari and Chrome */
-  margin-left: 350px;
   margin-top: -150px;
   -webkit-text-stroke: 1px #f008b7;
   -webkit-filter: drop-shadow(2px 2px 20px #f008b7);
@@ -58,16 +52,14 @@
 }
 
 .name {
-  position: absolute;
-  margin: 0px;
+  position: center;
+  margin: 0 auto;
   font-family: 'Mr Dafoe', cursive;
   font-size: 160px;
   color: #F975F7 ;
   transform:rotate(-1deg);
   -ms-transform:rotate(-1deg); /* IE 9 */
   -webkit-transform:rotate(-1deg); /* Safari and Chrome */
-  margin-left: 350px;
-  margin-top: 0px;
   -webkit-text-stroke: 1px #f008b7;
   -webkit-filter: drop-shadow(2px 2px 20px #f008b7);
   z-index: 20;
@@ -96,8 +88,6 @@
   /*-webkit-animation:vectro_effect 0.067s infinite;*/
   background: repeating-linear-gradient(0deg, rgba(255,255,255,0.05) 0px, rgba(255,255,255,0.05) 1px, rgba(255,255,255,0) 1px, rgba(255,255,255,0) 2px);
 }
-
-
 
 .windows .vectro {
   -webkit-text-stroke: 4px #f1f1f1;
